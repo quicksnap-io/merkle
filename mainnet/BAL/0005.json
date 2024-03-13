@@ -1,0 +1,20 @@
+[
+  {
+    "token": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "account": "0x3d6cffccf099ef375ca526e69f71fe5fd5cea952",
+    "amount": "436110319452689277",
+    "proof": [
+      "0x51587508cd97a0b3d7fdf390f4bd224f8b93006064bc8194fed605e8f6a81b4b"
+    ],
+    "index": 0
+  },
+  {
+    "token": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "account": "0x4fc0add5c5e7a70e36020641218b4d39f5cc7d36",
+    "amount": "4407268336433223",
+    "proof": [
+      "0x19bd62cb38ec6b3fd1403ff0fbe1b2f8afe3b17b13d7f9e760b40cb4cc022917"
+    ],
+    "index": 1
+  }
+]
